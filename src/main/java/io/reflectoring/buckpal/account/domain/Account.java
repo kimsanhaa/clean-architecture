@@ -28,6 +28,8 @@ public class Account {
 	 */
 	@Getter private final Money baselineBalance;
 
+
+
 	/**
 	 * The window of latest activities on this account.
 	 */
